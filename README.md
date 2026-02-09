@@ -1,2 +1,2 @@
 # LatihanBuatRepo
-Di sini saya belajar github
+Di sini saya belajar GitHub
